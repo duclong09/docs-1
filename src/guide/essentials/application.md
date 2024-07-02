@@ -1,3 +1,4 @@
+
 # Creating a Vue Application {#creating-a-vue-application}
 
 ## The application instance {#the-application-instance}
